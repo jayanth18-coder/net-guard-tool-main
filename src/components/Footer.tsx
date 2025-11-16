@@ -70,7 +70,7 @@ const Footer = () => {
                 <Mail className="h-4 w-4" />
               </a>
               <a
-                href="https://github.com/jayanth18-coder/net-guard-tool"
+                href="https://github.com/jayanth18-coder/net-guard-tool-main.git"
                 className="flex h-9 w-9 items-center justify-center rounded-lg bg-muted text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-all"
               >
                 <Github className="h-4 w-4" />
